@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyanggock
 - 👀 I’m interested in ... make funny things
-- 🌱 I’m currently learning ... C#,python,java,vba
+- 🌱 I’m currently learning ... C#,python,java,vba,html,css
 - 💞️ I’m looking to collaborate on ... NULL
 - 📫 How to reach me ... hyanggock@gmail.com
 
